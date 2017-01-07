@@ -11,8 +11,7 @@ Example
     #./fio_minimal_output_decode.py minimal.output
     
     Input Minimal File =  minimal.output
-    0	terse_version	fio: terminating on signal 2
-    3
+    0	terse_version	3
     1	fio_version	fio-2.11-4-g34feb
     2	jobname	test
     3	groupid	0
